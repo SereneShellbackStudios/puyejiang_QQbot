@@ -1,0 +1,6 @@
+pre-commit
+PyYAML~=6.0.2
+aiohttp>=3.7.4,<4
+APScheduler~=3.10.4
+zhipuai~=2.1.5.20230904
+setuptools~=68.2.0
