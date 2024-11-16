@@ -10,6 +10,7 @@ _✨ 基于 [机器人开放平台API](https://bot.q.qq.com/wiki/develop/api/)�
 
 葡叶酱bot兼容的Python最低版本是Python3.8。
 低于Python3.8会运行失败。
+项目需要一些软件包，建议下载文件里的venv.rar压缩包，解压后放在总母文件夹。
 
 
 ### 使用
